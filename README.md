@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/pavithrameddaduwage">Pavithra Meddaduwage</a>!</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/pavithrameddaduwage">Pavithra Meddaduwage</a> !</h1>
 <h3 align="center">A passionate 💻 Database Programmer & Web Developer 🌐</h3>
 
 <div align="center">
@@ -20,10 +20,10 @@
 <div align="center">
   <h3>🚀 What I'm Up To:</h3>
   <p>
-    I'm currently working as a **Database Programmer** at **Horizon Group USA** 🌟. I'm diving into **Advanced Web Development** 🌐, **Cloud Computing** ☁️, and **Data Analysis** 📊.
+    I'm currently working as a Database Programmer at Horizon Group USA 🌟. I'm diving into Advanced Web Development 🌐,  Cloud Computing ☁️, and Data Analysis 📊.
   </p>
   <p>
-    Always excited to collaborate on **Innovative Tech Projects** 💡, **Open Source Contributions** 🌍, and **Web Development** 💻.
+    Always excited to collaborate on Innovative Tech Projects💡, Open Source Contributions 🌍, and Web Development 💻.
   </p>
 </div>
 
